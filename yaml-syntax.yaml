@@ -1,0 +1,17 @@
+# Key-Values
+
+Name: Fai Doe
+Age: 28
+Occupation: Devops Engineer
+
+# Lists
+Hobbies:
+  - Swimming
+  - Hiking
+  - Gaming
+
+# Nested Structures
+Address:
+  Street: 123 Main St
+  City: Kibuli
+  State: Makindye
