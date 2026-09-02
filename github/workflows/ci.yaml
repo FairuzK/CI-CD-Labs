@@ -1,0 +1,13 @@
+name: Fai CICD Pipeline
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: checkout code
+        uses: actions/setup-python@v2
+      - name: We are testing this workflow
+        run: echo "Hello everyone"
