@@ -1,5 +1,7 @@
 # 🚀 CI/CD – Cheat Sheet
 
+CI/CD stands for **Continuous Integration** and **Continuous Delivery (or Continuous Deployment)**. It is a software development methodology that uses automation to build, test, and release code faster and more reliably.
+
 **GitHub Actions** pipelines that build, test, scan, and deploy containers to **ECR** and **ECS Fargate**.
 
 ## Pipeline flow
